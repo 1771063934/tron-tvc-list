@@ -1,4 +1,4 @@
-# Adding new token
+# this is my Simulated Mall
 The JSON schema for the tokens includes: address, name, decimals, symbol, logoURI, official homepage, MarketCap link, existing Markets.
 
 Follow the steps below to add a new token：
@@ -7,19 +7,18 @@ Follow the steps below to add a new token：
 ```
 {
     "address": "TSFvwP4c3nSH5Y9YXf3s4HgaBXMXoYYNAQ",
-    "symbol": "USTD",
+    "symbol": "USDT",
     "name": "Tether UST",
     "decimals": 6,
     "logoURI": "https://io.gsbaloot.com/game/usdt.png",
-    "homepage": "https://www.gsbaloot.com/",
+    "homepage": "https://app.strx.finance/",
     "existingMarkets": [
         {
             "source": "Binance",
             "pairs": [
                 "USDT/BTC",
                 "USDT/TRX",
-                "USDT/ETH",
-                "USTD/USDT"
+                "USDT/ETH"
             ]
         },
         {
@@ -27,8 +26,7 @@ Follow the steps below to add a new token：
             "pairs": [
                 "USDT/BTC",
                 "USDT/TRX",
-                "USDT/ETH",
-                "USTD/USDT"
+                "USDT/ETH"
             ]
         },
         {
@@ -36,8 +34,7 @@ Follow the steps below to add a new token：
             "pairs": [
                 "USDT/BTC",
                 "USDT/TRX",
-                "USDT/ETH",
-                "USTD/USDT"
+                "USDT/ETH"
             ]
         },
         {
@@ -45,8 +42,7 @@ Follow the steps below to add a new token：
             "pairs": [
                 "USDT/BTC",
                 "USDT/TRX",
-                "USDT/ETH",
-                "USTD/USDT"
+                "USDT/ETH"
             ]
         }
     ]
