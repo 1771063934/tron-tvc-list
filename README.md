@@ -6,9 +6,9 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-    "address": "TSFvwP4c3nSH5Y9YXf3s4HgaBXMXoYYNAQ",
-    "symbol": "USDT",
-    "name": "Tether UST",
+    "address": "TFpd269zNLncRem7NyLKgRifM2xxFv55eE",
+    "symbol": "U SDT",
+    "name": "Tethor US",
     "decimals": 6,
     "logoURI": "https://io.gsbaloot.com/game/usdt.png",
     "homepage": "https://app.strx.finance/",
