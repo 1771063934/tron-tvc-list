@@ -1,41 +1,45 @@
 {
-    "address": "TSFvwP4c3nSH5Y9YXf3s4HgaBXMXoYYNAQ",
-    "symbol": "USDT",
-    "name": "Tether UST",
-    "decimals": 6,
-    "logoURI": "https://io.gsbaloot.com/game/usdt.png",
-    "homepage": "https://app.strx.finance/",
+    "address": "TLGPtTVYqFer9Ci9djvPuuhphPXUMnHLYY",
+    "symbol": "GS",
+    "name": "GoldShark",
+    "decimals": 8,
+    "logoURI": "https://static.tronscan.org/production/upload/logo/new/TLGPtTVYqFer9Ci9djvPuuhphPXUMnHLYY.png",
+    "homepage": "https://goldshark.com/",
     "existingMarkets": [
         {
             "source": "Binance",
             "pairs": [
-                "USDT/BTC",
-                "USDT/TRX",
-                "USDT/ETH"
+                "GS/USDT",
+                "GS/BTC",
+                "GS/TRX",
+                "GS/ETH"
             ]
         },
         {
             "source": "KuCoin",
             "pairs": [
-                "USDT/BTC",
-                "USDT/TRX",
-                "USDT/ETH"
+                "GS/USDT",
+                "GS/BTC",
+                "GS/TRX",
+                "GS/ETH"
             ]
         },
         {
             "source": "imToken",
             "pairs": [
-                "USDT/BTC",
-                "USDT/TRX",
-                "USDT/ETH"
+                "GS/USDT",
+                "GS/BTC",
+                "GS/TRX",
+                "GS/ETH"
             ]
         },
         {
             "source": "TronLink",
             "pairs": [
-                "USDT/BTC",
-                "USDT/TRX",
-                "USDT/ETH"
+                "GS/USDT",
+                "GS/BTC",
+                "GS/TRX",
+                "GS/ETH"
             ]
         }
     ]
